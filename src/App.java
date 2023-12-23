@@ -7,7 +7,7 @@ public class App {
         u.setNome("Cid");
         u.setLogin("pywres");
         u.setSenha("1234");
-        u.setEmail("dantebr21@gmail.com");
+        u.setEmail("capaz@mail.com.br");
 
         new UserDAO().cadastrarUser(u);
     }
